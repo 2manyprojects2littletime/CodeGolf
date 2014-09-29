@@ -3,6 +3,7 @@ This is my first attempt at the 'Rock around the clock' round of code gofing as 
 The language of implementation is javascript.
 
 I've also started a js golfing utility harness: with the idea being that the user could pass an 'ungolfed' file and the harness would provide utility functions.  These functions would likely include: 
+    
     - minifying, returning the minified size (an important parameter in golfing)
         - this could also be accompanied by stats such as
             - global minimum,
